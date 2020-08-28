@@ -1,0 +1,6 @@
+Fri Aug 28 16:08:23 MSK 2020 John: hello
+Fri Aug 28 16:08:26 MSK 2020 Ron: hi
+Fri Aug 28 16:08:34 MSK 2020 Boss: good morning
+Fri Aug 28 16:09:11 MSK 2020 Ron: ddd
+Fri Aug 28 22:33:00 MSK 2020 Ron: hello!!!
+Fri Aug 28 22:45:33 MSK 2020 Ron to Boss asdfghjkl
