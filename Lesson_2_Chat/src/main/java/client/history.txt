@@ -1,0 +1,15 @@
+Fri Aug 28 16:08:23 MSK 2020 John: hello
+Fri Aug 28 16:08:26 MSK 2020 Ron: hi
+Fri Aug 28 16:08:34 MSK 2020 Boss: good morning
+Fri Aug 28 16:09:11 MSK 2020 Ron: ddd
+Fri Aug 28 22:33:00 MSK 2020 Ron: hello!!!
+Fri Aug 28 22:45:33 MSK 2020 Ron to Boss asdfghjkl
+Mon Aug 31 22:23:37 MSK 2020 John: testing
+Mon Aug 31 22:23:40 MSK 2020 Boss: testing
+Mon Aug 31 22:23:43 MSK 2020 Ron: testing
+Mon Aug 31 22:34:31 MSK 2020 John: ggg
+Mon Aug 31 22:34:34 MSK 2020 Boss: hhh
+Mon Aug 31 22:34:37 MSK 2020 Ron: jjj
+Mon Aug 31 22:34:45 MSK 2020 Boss: dfh
+Mon Aug 31 22:34:48 MSK 2020 John: fgx
+Mon Aug 31 22:34:56 MSK 2020 Boss: dxjg
